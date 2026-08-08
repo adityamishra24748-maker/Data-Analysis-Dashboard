@@ -1,0 +1,12 @@
+metric,value
+Students analyzed,500.0
+Pass rate (%),97.6
+Fail rate (%),2.4
+Failed students,12.0
+Low risk,301.0
+Moderate risk,178.0
+High risk,19.0
+Critical risk,2.0
+Study hours correlation with total score,0.798
+Attendance correlation with total score,-0.006
+Participation correlation with total score,0.021
